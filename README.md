@@ -1,6 +1,6 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 #### NAME:JASHWANA FATHIMA S
-#### DATE:27/04/2024
+#### DATE:28/04/2024
 #### REGISTER NUMBER: 212222040059
 #### DEPT:CSE
 
